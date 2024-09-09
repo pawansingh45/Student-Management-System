@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp"
+    }
+}
